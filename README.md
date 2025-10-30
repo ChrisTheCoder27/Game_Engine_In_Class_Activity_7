@@ -1,2 +1,2 @@
-# Game_Engine_In_Class_Activity_7
+I tried adding an observer pattern by having the player's car controller be the subject and having enemies and coins be the observers. The observers would listen for when the car controller collides with one of them, and when it does collide, it will send a notification to the observers. I got caught up in getting the observer set up and I had trouble getting the collisions to register, which affected my progress and wasted some of my time.
 
